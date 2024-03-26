@@ -1,0 +1,88 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1016/j.jpubeco.2012.10.009",
+            "abstract": "Abstract Individual perceptions of income distribution play a vital role in political economy and public finance models, yet there is little evidence regarding their origins or accuracy. This study examines how individuals form these perceptions and explores their potential impact on preferences for redistribution. A tailored household survey provides original evidence on systematic biases in individuals’ evaluations of their own relative position in the income distribution. The study discusses one of the mechanisms that may generate such biases, based on the extrapolation of information from endogenous reference groups, and presents some suggestive evidence that this mechanism has significant explanatory power. The impact of these biased perceptions on attitudes toward redistributive policies is studied by means of an experimental design that was incorporated into the survey, which provided consistent information on the own-ranking within the income distribution to a randomly selected group of respondents. The evidence suggests that those who had overestimated their relative position and thought that they were relatively richer than they were tend to demand higher levels of redistribution when informed of their true ranking.",
+            "annote": "MAG ID: 3122013459",
+            "author": [
+                {
+                    "literal": "Guillermo Cruces"
+                },
+                {
+                    "family": "Cruces",
+                    "given": "Guillermo"
+                },
+                {
+                    "literal": "Ricardo Pérez-Truglia"
+                },
+                {
+                    "family": "Truglia",
+                    "given": "Ricardo Nicolas Perez"
+                },
+                {
+                    "family": "Perez-Truglia",
+                    "given": "Ricardo"
+                },
+                {
+                    "literal": "Martín Tetaz"
+                },
+                {
+                    "family": "Tetaz",
+                    "given": "Martin"
+                }
+            ],
+            "container-title": "Journal of Public Economics",
+            "id": "guillermocrucesBiasedPerceptionsIncome2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "page": "100-112",
+            "title": "Biased perceptions of income distribution and preferences for redistribution: Evidence from a survey experiment ",
+            "title-short": "Biased perceptions of income distribution and preferences for redistribution",
+            "type": "article-journal",
+            "volume": "98"
+        },
+        {
+            "DOI": "10.1093/ser/mwy051",
+            "ISSN": "1475-1461, 1475-147X",
+            "abstract": "Abstract Inequality is on the rise: gains have been concentrated with a small elite, while most have seen their fortunes stagnate or fall. Despite what scholars and journalists consider a worrying trend, there is no evidence of growing popular concern about inequality. In fact, research suggests that citizens in unequal societies are less concerned than those in more egalitarian societies. How to make sense of this paradox? I argue that citizens’ consent to inequality is explained by their growing conviction that societal success is reflective of a meritocratic process. Drawing on 25 years of International Social Survey Program data, I show that rising inequality is legitimated by the popular belief that the income gap is meritocratically deserved: the more unequal a society, the more likely its citizens are to explain success in meritocratic terms, and the less important they deem nonmeritocratic factors such as a person’s family wealth and connections.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        26
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Mijs",
+                    "given": "Jonathan J B"
+                }
+            ],
+            "container-title": "Socio-Economic Review",
+            "id": "mijsParadoxInequalityIncome2021",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        7
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "7-35",
+            "title": "The paradox of inequality: Income inequality and belief in meritocracy go hand in hand",
+            "title-short": "The paradox of inequality",
+            "type": "article-journal",
+            "volume": "19"
+        }
+    ],
+    "project_biblios": []
+}

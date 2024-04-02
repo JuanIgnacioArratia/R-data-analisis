@@ -3,7 +3,7 @@
     "path": "~/GitHub/R-data-analisis/R-data-analisiss.qmd",
     "project_path": "R-data-analisiss.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3415473209",
     "contents": "",
     "dirty": false,
     "created": 1711486776585.0,
@@ -19,15 +19,15 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "176:0",
+        "rmdVisualModeLocation": "183:0",
         "docOutlineSize": "109"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711490804,
+    "lastKnownWriteTime": 1711491035,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711490804853,
+    "last_content_update": 1711491035180,
     "read_only": false,
     "read_only_alternatives": []
 }
